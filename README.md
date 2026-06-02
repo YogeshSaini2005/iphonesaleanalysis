@@ -167,7 +167,7 @@ python your_script.py
 
 ## 👨‍💻 Author
 
-Your Name
+Yogesh Saini
 
 ---
 
